@@ -6,7 +6,7 @@
 
 ## What I do
 
-- C#, Unity3D as my specialization
+- **C#, Unity3D as my specialization**
 - Computer Graphics
 - Rust & etc.
 - Terraform & Infrastructure management
