@@ -1,16 +1,21 @@
-### Hi there 👋
+## Who Am I
 
-<!--
-**integraldx/integraldx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Unity3D dev since 2015, as career since 2020
+- CSE major in Seoul National University
+- Currently at PLATiNA :: LAB team
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Unity3D
+- Computer Graphics
+- Terraform & Infrastructure management
+- TypeScript, k8s & DevOps
+- Windows & Linux (I use arch btw)
+- Anything required...
+
+## Contact
+
+- [integraldx@integraldx.dev](mailto://integraldx@integraldx.dev)
+- [Twitter (X)](https://x.com/integraldx_dev)
+- [Linkedin](https://www.linkedin.com/in/integraldx)
