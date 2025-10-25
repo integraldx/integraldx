@@ -6,13 +6,18 @@
 
 ## What I do
 
-- C#
-- Unity3D
+- C#, Unity3D as my specialization
 - Computer Graphics
+- Rust & etc.
 - Terraform & Infrastructure management
 - TypeScript, k8s & DevOps
 - Windows & Linux (I use arch btw)
 - Anything required...
+
+## Career
+
+- Software Engineer @ Baglecode (2020 ~ 2024)
+- Lead Software Engineer @ HIGH-END Games (2024 ~ )
 
 ## Contact
 
